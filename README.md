@@ -37,9 +37,9 @@
     ```
 
 
-### Quantitative Results 
+## Quantitative Results 
 
-## CRAIG Subset Evaluation (ARC-Easy Accuracy in %)
+#### CRAIG Subset Evaluation (ARC-Easy Accuracy in %)
 
 | Data (%) | Perplexity (PPL) | Accuracy (%) |
 |----------|------------------|---------------|
