@@ -37,7 +37,18 @@
     ```
 
 
-## Quantitative Results - [Tasks] Wikitext (PPL), ARC-Easy (Accuracy)  [Model] LlaMA 3.2 1B (pruning ratio of 0.35 using LLM-Pruner pruning scheme) 
+## Quantitative Results - 
+### Evaluation Details
+
+- **Tasks**:
+  - **Wikitext**: evaluated using *Perplexity (PPL)*
+  - **ARC-Easy**: evaluated using *Accuracy*
+- **Model**:
+  - *LLaMA 3.2 1B*
+- **Pruning**:
+  - *Pruning Ratio*: **0.35**
+  - *Pruning Scheme*: **LLM-Pruner**
+
 
 #### CRAIG Subset Evaluation (Accuracy in %)
 
