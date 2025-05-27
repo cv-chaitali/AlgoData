@@ -36,6 +36,14 @@
     python upload_hugging_face.py 
     ```
 
+---
+
+## Visualize Umap
+|CRAIG|SG Facility|SG Norms|
+|---|---|---|
+|![craig_selection](https://github.com/user-attachments/assets/b4919f62-b450-4f63-a9b2-4395ed4aebc1)|![sg_facility](https://github.com/user-attachments/assets/845f2f7d-3d91-417a-bd38-30621c5a6f50)|![sg_norms](https://github.com/user-attachments/assets/bcd53a39-dbdf-4d9c-9454-6b9558c61f1f)|
+
+---
 
 ## Quantitative Results - 
 ### Evaluation Details
@@ -109,5 +117,7 @@
 | 70       | 29.6715          | 56.06         |
 | 80       | 30.5075          | 55.89         |
 | 90       | 29.1851          | 55.93         |
+
+
 
 
